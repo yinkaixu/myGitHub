@@ -1,0 +1,132 @@
+from django.shortcuts import render
+from datetime import datetime
+from django.http import HttpResponse
+from models import Stock
+from datetime import timedelta
+
+# Create your views here.
+def stock_input(request):
+    #form = AddForm()
+    act = request.GET.get('act')
+    if(act is None ):
+        act='add'
+    print('act=%s'%act)
+    if(act=='update'):
+        code=request.GET.get('code')
+        if(code==''):
+            return HttpResponse("code is NULL")
+        try:
+            stock = Stock.objects.get(code=code)
+        except Exception as e:
+            return HttpResponse(str(e))
+        dic_record={}
+        dic_record['stockname']=stock.stockname
+        dic_record['code']=stock.code
+        dic_record['issuevolplanned']=str(float(stock.issuevolplanned))
+        dic_record['publicnewshareplanned']=str(float(stock.publicnewshareplanned))
+        dic_record['issuepriceceiling']=str(float(stock.issuepriceceiling))
+        dic_record['issuepricefloor']=str(float(stock.issuepricefloor))
+        dic_record['tradeunitpriceatceiling']=str(float(stock.tradeunitpriceatceiling))
+        dic_record['exchange']=stock.exchange
+        dic_record['issuetype']=stock.issuetype
+        dic_record['applystartdate']=stock.applystartdate.strftime('%Y-%m-%d')
+        dic_record['issueenddate']=stock.issueenddate.strftime('%Y-%m-%d')
+        dic_record['proposedlistdate']=stock.proposedlistdate.strftime('%Y-%m-%d')
+        dic_record['datetoaccount']=stock.datetoaccount.strftime('%Y-%m-%d')
+        dic_record['tradeunit']=stock.tradeunit
+        
+        return render(request, 'input.html',{'render_dic':dic_record,'act':act})
+    elif act=='add':
+        dic_record={}
+        dic_record['exchange']='HKEX'
+        return render(request, 'input.html',{'render_dic':dic_record,'act':act})
+    return render(request, 'input.html')
+    
+    
+def showlist(request):
+    render_list=[]
+    now = datetime.now()
+    start = now - timedelta(hours=93, minutes=59, seconds=59)
+    mystocks = Stock.objects.filter(updatetime__gt=start).order_by('-updatetime')
+    linenum=0
+    for stock in mystocks:
+        linenum += 1
+        print "name=:%s"%stock.stockname
+        dic_record={}
+        dic_record['stockname']=stock.stockname
+        dic_record['code']=stock.code
+        dic_record['applystartdate']=stock.applystartdate.strftime('%Y-%m-%d')
+        dic_record['issueenddate']=stock.issueenddate.strftime('%Y-%m-%d')
+        updatetime =stock.updatetime + timedelta(hours=8)
+        dic_record['updatetime']=updatetime.strftime('%Y-%m-%d %H:%M:%S')
+        dic_record['linenum'] = linenum%2+1 
+        render_list.append(dic_record)
+    print render_list
+    return render(request, 'list.html',{'render_list':render_list})
+def contact(request):
+    """Renders the contact page."""
+    return render(request,'contact.html',{'title':'Contact','year':datetime.now().year,'message':'Your contact page.'})
+        
+def info_submit(request):
+    rt='1'
+    act = request.POST.get('act')
+    if(act=='del'):
+        code=request.POST.get('code')
+        try:
+            print 'code=%s'%code
+            del_stock = Stock.objects.filter(code=code)
+            del_stock.delete()
+        except Exception as e:
+            print e
+            rt=str(e).replace('\'','')
+        return HttpResponse("<script>parent.del_result('"+rt+"')</script>")
+    elif act=='update' or act=='add':
+        if(act=='update'):#del old stock
+            old_code = request.POST.get('old_code')
+            try:
+                print 'oldcode=%s'%old_code
+                old_stock = Stock.objects.get(code=old_code)
+                old_stock.delete()
+            except Exception as e:
+                print e
+            #toDo for del from cassandra,oracle
+        stockname = request.POST.get('stockname')
+        code = request.POST.get('code')
+        issuevolplanned = request.POST.get('issuevolplanned')
+        issuevolplanned = issuevolplanned.replace(',','')
+        publicnewshareplanned = request.POST.get('publicnewshareplanned')
+        publicnewshareplanned = publicnewshareplanned.replace(',','')
+        issuepriceceiling  = request.POST.get('issuepriceceiling')
+        issuepricefloor = request.POST.get('issuepricefloor')
+        tradeunitpriceatceiling = request.POST.get('tradeunitpriceatceiling')
+        exchange = request.POST.get('exchange')
+        issuetype = request.POST.get('issuetype')
+        applystartdate = request.POST.get('applystartdate')
+        issueenddate = request.POST.get('issueenddate')
+        proposedlistdate = request.POST.get('proposedlistdate')
+        datetoaccount = request.POST.get('datetoaccount')
+        tradeunit = request.POST.get('tradeunit')
+        try:
+            stock = Stock()
+            stock.code = code
+            stock.stockname=stockname
+            stock.issuevolplanned=issuevolplanned
+            stock.publicnewshareplanned=publicnewshareplanned
+            stock.issuepriceceiling=issuepriceceiling
+            stock.issuepricefloor=issuepricefloor
+            stock.tradeunitpriceatceiling =tradeunitpriceatceiling
+            stock.exchange=exchange
+            stock.issuetype=issuetype
+            stock.applystartdate=applystartdate
+            stock.issueenddate=issueenddate
+            stock.proposedlistdate=proposedlistdate
+            stock.datetoaccount=datetoaccount
+            stock.tradeunit=tradeunit
+            stock.save()
+        except Exception as e:
+            print e
+            rt=str(e).replace('\'','')
+            
+            
+        #toDo for add to cassandra,oracle
+        return HttpResponse("<script>parent.submit_result('"+rt+"')</script>")

@@ -1,0 +1,1583 @@
+2018-01-19 13:45:01,457 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 13:45:01,889 (sync_database_script.py.124) INFO selected count=10849
+2018-01-19 13:45:12,614 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 14:15:01,254 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 14:15:01,618 (sync_database_script.py.124) INFO selected count=10849
+2018-01-19 14:15:12,108 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 14:45:01,696 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 14:45:02,314 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 14:45:13,618 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 15:15:02,212 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 15:15:02,670 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 15:15:13,836 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 15:45:01,394 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 15:45:01,982 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 15:45:13,703 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 16:15:01,323 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 16:15:01,704 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 16:15:13,507 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 16:45:02,079 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 16:45:02,434 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 16:45:14,018 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 17:15:01,625 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 17:15:03,662 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 17:15:15,368 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 17:45:01,961 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 17:45:02,817 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 17:45:14,494 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 18:15:02,087 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 18:15:02,488 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 18:15:14,387 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 18:45:01,946 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 18:45:02,788 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 18:45:14,656 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 19:15:01,745 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 19:15:02,198 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 19:15:13,792 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 19:45:01,344 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 19:45:02,031 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 19:45:13,854 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 20:15:01,435 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 20:15:02,090 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 20:15:13,693 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 20:45:01,255 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 20:45:01,676 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 20:45:13,350 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 21:15:01,933 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 21:15:02,289 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 21:15:14,058 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 21:45:01,615 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 21:45:01,956 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 21:45:13,857 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 22:15:01,445 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 22:15:01,780 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 22:15:13,568 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 22:45:02,129 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 22:45:02,472 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 22:45:13,376 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 23:15:01,957 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 23:15:02,298 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 23:15:13,317 (sync_database_script.py.166) INFO sync [ok]
+2018-01-19 23:45:01,876 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-19 23:45:02,212 (sync_database_script.py.124) INFO selected count=10851
+2018-01-19 23:45:13,139 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 00:15:01,739 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 00:15:02,109 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 00:15:13,400 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 00:45:01,958 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 00:45:02,293 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 00:45:12,895 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 01:15:01,494 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 01:15:01,844 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 01:15:13,631 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 01:45:02,194 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 01:45:02,524 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 01:45:13,315 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 02:15:01,908 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 02:15:02,292 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 02:15:13,376 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 02:45:01,925 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 02:45:02,264 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 02:45:12,638 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 03:15:01,233 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 03:15:01,577 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 03:15:12,405 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 03:45:01,961 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 03:45:02,297 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 03:45:13,028 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 04:15:01,610 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 04:15:01,958 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 04:15:12,561 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 04:45:02,127 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 04:45:02,470 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 04:45:13,283 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 05:15:01,873 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 05:15:02,226 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 05:15:14,133 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 05:45:01,696 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 05:45:02,065 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 05:45:13,974 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 06:15:01,555 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 06:15:01,904 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 06:15:13,588 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 06:45:02,147 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 06:45:02,489 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 06:45:14,145 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 07:15:01,727 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 07:15:02,079 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 07:15:14,066 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 07:45:01,630 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 07:45:01,975 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 07:45:13,783 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 08:15:01,375 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 08:15:01,716 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 08:15:13,332 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 08:45:01,885 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 08:45:02,222 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 08:45:13,981 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 09:15:01,565 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 09:15:01,905 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 09:15:13,487 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 09:45:02,065 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 09:45:02,410 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 09:45:13,693 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 10:15:01,281 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 10:15:01,621 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 10:15:12,889 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 10:45:01,437 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 10:45:01,774 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 10:45:13,330 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 11:15:01,923 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 11:15:02,262 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 11:15:13,073 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 11:45:01,633 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 11:45:01,967 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 11:45:13,424 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 12:15:02,005 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 12:15:02,360 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 12:15:13,929 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 12:45:01,482 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 12:45:01,907 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 12:45:13,531 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 13:15:02,152 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 13:15:03,035 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 13:15:14,498 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 13:45:02,077 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 13:45:03,251 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 13:45:14,975 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 14:15:01,567 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 14:15:02,253 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 14:15:13,725 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 14:45:01,288 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 14:45:01,897 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 14:45:13,319 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 15:15:01,902 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 15:15:02,518 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 15:15:14,430 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 15:45:01,994 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 15:45:02,374 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 15:45:14,397 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 16:15:01,986 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 16:15:02,330 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 16:15:14,053 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 16:45:01,614 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 16:45:01,950 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 16:45:13,627 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 17:15:02,204 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 17:15:02,539 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 17:15:14,327 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 17:45:01,892 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 17:45:02,271 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 17:45:14,120 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 18:15:01,715 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 18:15:02,067 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 18:15:13,897 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 18:45:01,449 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 18:45:01,790 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 18:45:13,628 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 19:15:01,222 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 19:15:01,565 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 19:15:13,195 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 19:45:01,760 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 19:45:02,105 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 19:45:13,873 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 20:15:01,457 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 20:15:01,795 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 20:15:13,680 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 20:45:01,243 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 20:45:01,599 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 20:45:13,492 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 21:15:02,077 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 21:15:02,417 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 21:15:14,144 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 21:45:01,724 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 21:45:02,060 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 21:45:13,833 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 22:15:01,421 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 22:15:01,758 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 22:15:13,549 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 22:45:02,102 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 22:45:02,437 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 22:45:14,270 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 23:15:01,851 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 23:15:02,200 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 23:15:13,862 (sync_database_script.py.166) INFO sync [ok]
+2018-01-20 23:45:01,414 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-20 23:45:01,775 (sync_database_script.py.124) INFO selected count=10851
+2018-01-20 23:45:13,428 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 00:15:02,084 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 00:15:02,458 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 00:15:14,253 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 00:45:01,982 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 00:45:02,344 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 00:45:14,184 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 01:15:01,808 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 01:15:02,189 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 01:15:13,971 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 01:45:01,608 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 01:45:01,971 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 01:45:13,768 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 02:15:01,396 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 02:15:01,754 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 02:15:13,412 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 02:45:02,100 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 02:45:02,514 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 02:45:14,353 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 03:15:02,088 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 03:15:02,437 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 03:15:14,322 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 03:45:02,207 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 03:45:02,642 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 03:45:14,435 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 04:15:02,074 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 04:15:02,437 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 04:15:14,103 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 04:45:01,740 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 04:45:02,100 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 04:45:13,741 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 05:15:01,487 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 05:15:01,856 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 05:15:13,712 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 05:45:01,326 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 05:45:01,687 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 05:45:13,469 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 06:15:02,078 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 06:15:02,432 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 06:15:14,168 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 06:45:01,797 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 06:45:02,162 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 06:45:13,828 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 07:15:01,516 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 07:15:01,877 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 07:15:13,762 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 07:45:01,496 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 07:45:01,901 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 07:45:13,750 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 08:15:01,368 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 08:15:01,774 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 08:15:13,517 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 08:45:02,167 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 08:45:02,560 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 08:45:14,312 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 09:15:02,057 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 09:15:02,439 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 09:15:13,977 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 09:45:01,643 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 09:45:02,023 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 09:45:13,499 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 10:15:02,300 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 10:15:02,685 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 10:15:14,364 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 10:45:01,982 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 10:45:02,365 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 10:45:14,050 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 11:15:02,031 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 11:15:02,410 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 11:15:13,985 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 11:45:01,603 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 11:45:01,947 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 11:45:13,543 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 12:15:02,151 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 12:15:02,502 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 12:15:14,085 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 12:45:01,649 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 12:45:01,997 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 12:45:13,616 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 13:15:02,206 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 13:15:02,539 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 13:15:13,938 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 13:45:01,510 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 13:45:01,846 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 13:45:13,301 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 14:15:01,889 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 14:15:02,234 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 14:15:13,838 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 14:45:01,398 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 14:45:01,739 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 14:45:13,441 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 15:15:02,025 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 15:15:02,384 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 15:15:14,244 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 15:45:01,810 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 15:45:02,146 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 15:45:13,920 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 16:15:01,503 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 16:15:01,843 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 16:15:13,680 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 16:45:01,267 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 16:45:01,607 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 16:45:13,407 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 17:15:01,986 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 17:15:02,341 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 17:15:14,007 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 17:45:01,569 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 17:45:01,916 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 17:45:13,720 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 18:15:01,320 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 18:15:01,658 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 18:15:13,325 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 18:45:01,882 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 18:45:02,219 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 18:45:13,893 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 19:15:01,493 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 19:15:01,833 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 19:15:13,656 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 19:45:02,203 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 19:45:02,556 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 19:45:14,328 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 20:15:01,906 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 20:15:02,262 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 20:15:14,050 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 20:45:01,601 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 20:45:01,938 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 20:45:13,632 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 21:15:02,220 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 21:15:02,571 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 21:15:14,400 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 21:45:01,957 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 21:45:02,300 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 21:45:14,064 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 22:15:01,654 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 22:15:02,002 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 22:15:13,870 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 22:45:01,430 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 22:45:01,780 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 22:45:13,523 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 23:15:02,115 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 23:15:02,448 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 23:15:14,150 (sync_database_script.py.166) INFO sync [ok]
+2018-01-21 23:45:01,709 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-21 23:45:02,047 (sync_database_script.py.124) INFO selected count=10851
+2018-01-21 23:45:13,780 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 00:15:01,372 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 00:15:01,711 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 00:15:13,438 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 00:45:01,996 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 00:45:02,328 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 00:45:14,252 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 01:15:01,845 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 01:15:02,188 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 01:15:13,916 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 01:45:01,480 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 01:45:01,817 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 01:45:13,626 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 02:15:02,221 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 02:15:02,567 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 02:15:14,281 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 02:45:01,845 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 02:45:02,182 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 02:45:13,823 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 03:15:01,414 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 03:15:01,753 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 03:15:13,554 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 03:45:02,127 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 03:45:02,471 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 03:45:14,214 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 04:15:01,800 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 04:15:02,136 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 04:15:13,934 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 04:45:01,492 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 04:45:01,829 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 04:45:13,517 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 05:15:02,118 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 05:15:02,459 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 05:15:14,257 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 05:45:01,834 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 05:45:02,171 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 05:45:14,032 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 06:15:01,615 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 06:15:01,947 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 06:15:13,822 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 06:45:01,378 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 06:45:01,724 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 06:45:13,459 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 07:15:02,059 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 07:15:02,412 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 07:15:14,229 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 07:45:01,778 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 07:45:02,118 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 07:45:13,951 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 08:15:01,541 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 08:15:01,882 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 08:15:13,751 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 08:45:01,344 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 08:45:01,685 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 08:45:13,244 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 09:15:01,858 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 09:15:02,206 (sync_database_script.py.124) INFO selected count=10851
+2018-01-22 09:15:14,058 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 09:45:01,623 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 09:45:01,968 (sync_database_script.py.124) INFO selected count=10852
+2018-01-22 09:45:12,668 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 10:15:01,281 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 10:15:01,626 (sync_database_script.py.124) INFO selected count=10852
+2018-01-22 10:15:12,355 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 10:45:01,921 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 10:45:02,259 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 10:45:13,126 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 11:15:01,850 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 11:15:02,203 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 11:15:13,075 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 11:45:01,671 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 11:45:02,191 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 11:45:13,258 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 12:15:01,847 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 12:15:02,206 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 12:15:12,758 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 12:45:01,315 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 12:45:01,655 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 12:45:13,004 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 13:15:01,603 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 13:15:01,945 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 13:15:12,774 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 13:45:01,373 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 13:45:01,706 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 13:45:12,477 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 14:15:02,082 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 14:15:02,419 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 14:15:13,440 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 14:45:02,027 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 14:45:02,372 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 14:45:13,676 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 15:15:01,274 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 15:15:01,626 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 15:15:12,446 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 15:45:02,004 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 15:45:02,355 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 15:45:13,168 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 16:15:01,764 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 16:15:02,132 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 16:15:13,656 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 16:45:02,220 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 16:45:02,990 (sync_database_script.py.124) INFO selected count=10854
+2018-01-22 16:45:14,754 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 17:15:01,351 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 17:15:03,977 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 17:15:15,894 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 17:45:01,472 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 17:45:03,725 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 17:45:15,435 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 18:15:02,037 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 18:15:02,598 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 18:15:14,199 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 18:45:01,761 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 18:45:02,211 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 18:45:14,196 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 19:15:01,784 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 19:15:02,429 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 19:15:15,966 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 19:45:01,569 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 19:45:02,441 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 19:45:14,190 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 20:15:01,785 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 20:15:02,366 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 20:15:14,220 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 20:45:01,794 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 20:45:02,331 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 20:45:13,982 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 21:15:01,578 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 21:15:02,035 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 21:15:13,854 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 21:45:01,417 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 21:45:01,751 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 21:45:13,481 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 22:15:02,070 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 22:15:02,403 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 22:15:14,045 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 22:45:01,603 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 22:45:01,944 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 22:45:12,703 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 23:15:01,287 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 23:15:01,628 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 23:15:12,344 (sync_database_script.py.166) INFO sync [ok]
+2018-01-22 23:45:01,908 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-22 23:45:02,245 (sync_database_script.py.124) INFO selected count=10856
+2018-01-22 23:45:12,756 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 00:15:01,352 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 00:15:01,695 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 00:15:12,771 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 00:45:01,403 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 00:45:01,775 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 00:45:12,365 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 01:15:01,960 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 01:15:02,303 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 01:15:12,854 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 01:45:01,409 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 01:45:01,759 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 01:45:12,310 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 02:15:01,917 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 02:15:02,256 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 02:15:12,858 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 02:45:01,407 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 02:45:01,740 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 02:45:12,835 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 03:15:01,416 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 03:15:01,757 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 03:15:12,922 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 03:45:01,484 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 03:45:01,829 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 03:45:12,501 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 04:15:02,100 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 04:15:02,437 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 04:15:12,743 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 04:45:01,319 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 04:45:01,664 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 04:45:12,041 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 05:15:01,634 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 05:15:01,980 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 05:15:13,781 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 05:45:01,339 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 05:45:01,674 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 05:45:13,640 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 06:15:01,241 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 06:15:01,569 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 06:15:12,259 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 06:45:01,818 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 06:45:02,193 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 06:45:13,933 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 07:15:01,522 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 07:15:01,866 (sync_database_script.py.124) INFO selected count=10856
+2018-01-23 07:15:13,579 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 07:45:02,134 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 07:45:02,470 (sync_database_script.py.124) INFO selected count=10857
+2018-01-23 07:45:14,401 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 08:15:01,994 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 08:15:02,341 (sync_database_script.py.124) INFO selected count=10857
+2018-01-23 08:15:14,198 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 08:45:01,756 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 08:45:02,096 (sync_database_script.py.124) INFO selected count=10857
+2018-01-23 08:45:13,611 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 09:15:02,200 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 09:15:02,545 (sync_database_script.py.124) INFO selected count=10857
+2018-01-23 09:15:14,127 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 09:45:01,688 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 09:45:02,026 (sync_database_script.py.124) INFO selected count=10858
+2018-01-23 09:45:13,881 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 10:15:01,472 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 10:15:01,808 (sync_database_script.py.124) INFO selected count=10858
+2018-01-23 10:15:12,303 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 10:45:01,865 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 10:45:02,210 (sync_database_script.py.124) INFO selected count=10860
+2018-01-23 10:45:13,439 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 11:15:02,029 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 11:15:02,381 (sync_database_script.py.124) INFO selected count=10860
+2018-01-23 11:15:13,737 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 11:45:01,298 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 11:45:01,632 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 11:45:12,664 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 12:15:01,255 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 12:15:01,616 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 12:15:12,941 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 12:45:01,500 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 12:45:01,878 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 12:45:13,354 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 13:15:01,952 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 13:15:02,701 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 13:15:13,661 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 13:45:01,239 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 13:45:01,930 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 13:45:12,863 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 14:15:01,469 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 14:15:02,193 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 14:15:15,332 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 14:45:01,916 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 14:45:02,287 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 14:45:13,592 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 15:15:01,230 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 15:15:01,592 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 15:15:13,749 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 15:45:01,311 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 15:45:01,669 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 15:45:13,543 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 16:45:01,602 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 16:45:01,960 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 16:45:13,939 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 17:15:01,550 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 17:15:01,981 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 17:15:13,926 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 17:45:01,489 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 17:45:04,578 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 17:45:16,249 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 18:15:01,871 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 18:15:02,378 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 18:15:14,159 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 18:45:01,732 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 18:45:02,436 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 18:45:14,289 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 19:15:01,904 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 19:15:02,577 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 19:15:14,475 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 19:45:02,038 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 19:45:02,677 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 19:45:14,472 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 20:15:02,114 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 20:15:03,558 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 20:15:15,471 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 20:45:02,030 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 20:45:02,565 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 20:45:14,300 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 21:15:01,893 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 21:15:02,360 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 21:15:14,146 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 21:45:01,761 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 21:45:02,117 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 21:45:14,151 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 22:15:01,795 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 22:15:02,143 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 22:15:14,004 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 22:45:01,558 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 22:45:01,890 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 22:45:12,643 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 23:15:01,248 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 23:15:01,590 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 23:15:12,598 (sync_database_script.py.166) INFO sync [ok]
+2018-01-23 23:45:02,160 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-23 23:45:02,498 (sync_database_script.py.124) INFO selected count=10861
+2018-01-23 23:45:13,175 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 00:15:01,797 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 00:15:02,135 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 00:15:12,903 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 00:45:01,462 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 00:45:01,797 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 00:45:12,383 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 01:15:01,991 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 01:15:02,330 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 01:15:12,836 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 01:45:01,479 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 01:45:01,815 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 01:45:12,549 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 02:15:02,153 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 02:15:02,494 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 02:15:13,619 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 02:45:02,193 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 02:45:02,538 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 02:45:13,108 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 03:15:01,694 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 03:15:02,029 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 03:15:12,712 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 03:45:01,289 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 03:45:01,624 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 03:45:12,444 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 04:15:02,086 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 04:15:02,422 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 04:15:13,054 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 04:45:01,673 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 04:45:02,007 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 04:45:12,733 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 05:15:01,323 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 05:15:01,667 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 05:15:13,684 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 05:45:01,253 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 05:45:01,603 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 05:45:13,559 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 06:15:02,156 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 06:15:02,509 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 06:15:14,287 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 06:45:01,860 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 06:45:02,199 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 06:45:14,217 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 07:15:01,817 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 07:15:02,148 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 07:15:14,148 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 07:45:01,750 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 07:45:02,098 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 07:45:13,979 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 08:15:01,574 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 08:15:01,926 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 08:15:14,002 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 08:45:01,587 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 08:45:01,922 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 08:45:13,614 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 09:15:02,231 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 09:15:02,563 (sync_database_script.py.124) INFO selected count=10861
+2018-01-24 09:15:14,375 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 09:45:01,953 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 09:45:02,300 (sync_database_script.py.124) INFO selected count=10864
+2018-01-24 09:45:13,198 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 10:15:01,804 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 10:15:02,158 (sync_database_script.py.124) INFO selected count=10865
+2018-01-24 10:15:13,176 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 10:45:01,761 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 10:45:02,107 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 10:45:12,965 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 11:15:01,591 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 11:15:01,942 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 11:15:13,228 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 11:45:01,793 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 11:45:02,143 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 11:45:12,941 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 12:15:01,537 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 12:15:01,894 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 12:15:12,747 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 12:45:01,326 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 12:45:01,791 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 12:45:13,013 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 13:15:01,603 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 13:15:01,964 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 13:15:27,509 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 13:45:02,089 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 13:45:03,281 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 13:45:14,246 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 14:15:01,857 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 14:15:03,244 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 14:15:13,845 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 14:45:01,420 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 14:45:02,172 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 14:45:12,890 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 15:15:01,491 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 15:15:01,844 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 15:15:13,228 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 15:45:01,794 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 15:45:02,184 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 15:45:13,622 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 16:15:02,207 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 16:15:02,891 (sync_database_script.py.124) INFO selected count=10868
+2018-01-24 16:15:14,721 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 16:45:01,296 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 16:45:01,986 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 16:45:13,824 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 17:15:01,463 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 17:15:03,870 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 17:15:15,759 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 17:36:14,082 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 17:36:14,489 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 17:36:27,630 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 17:45:01,332 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 17:45:01,696 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 17:45:13,559 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 18:15:01,241 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 18:15:01,728 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 18:15:13,634 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 18:45:02,207 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 18:45:02,742 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 18:45:14,477 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 19:15:02,072 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 19:15:02,947 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 19:15:14,718 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 19:45:01,273 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 19:45:02,066 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 19:45:13,897 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 20:15:01,540 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 20:15:02,303 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 20:15:14,181 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 20:45:01,744 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 20:45:02,227 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 20:45:14,039 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 21:15:01,623 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 21:15:02,024 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 21:15:13,929 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 21:45:01,492 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 21:45:01,846 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 21:45:13,653 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 22:15:01,251 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 22:15:01,590 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 22:15:13,225 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 22:45:01,794 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 22:45:02,131 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 22:45:12,716 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 23:15:01,368 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 23:15:01,713 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 23:15:13,120 (sync_database_script.py.166) INFO sync [ok]
+2018-01-24 23:45:01,679 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-24 23:45:02,009 (sync_database_script.py.124) INFO selected count=10869
+2018-01-24 23:45:12,612 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 00:15:02,222 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 00:15:02,558 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 00:15:13,234 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 00:45:01,803 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 00:45:02,140 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 00:45:13,013 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 01:15:01,614 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 01:15:01,971 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 01:15:13,046 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 01:45:01,601 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 01:45:01,953 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 01:45:12,736 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 02:15:01,347 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 02:15:01,682 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 02:15:12,346 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 02:45:01,908 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 02:45:02,248 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 02:45:12,966 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 03:15:01,559 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 03:15:01,899 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 03:15:12,698 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 03:45:01,274 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 03:45:01,618 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 03:45:12,507 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 04:15:02,098 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 04:15:02,437 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 04:15:12,968 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 04:45:01,533 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 04:45:01,869 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 04:45:12,337 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 05:15:01,926 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 05:15:02,298 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 05:15:14,071 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 05:45:01,632 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 05:45:02,000 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 05:45:13,886 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 06:15:01,486 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 06:15:01,820 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 06:15:13,650 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 06:45:02,207 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 06:45:02,552 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 06:45:14,332 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 07:15:01,933 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 07:15:02,275 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 07:15:14,155 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 07:45:01,708 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 07:45:02,056 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 07:45:13,858 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 08:15:01,459 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 08:15:01,809 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 08:15:13,626 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 08:45:02,190 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 08:45:02,530 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 08:45:13,926 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 09:15:01,524 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 09:15:01,875 (sync_database_script.py.124) INFO selected count=10869
+2018-01-25 09:15:13,355 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 09:45:02,165 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 09:45:02,509 (sync_database_script.py.124) INFO selected count=10870
+2018-01-25 09:45:13,199 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 10:15:01,843 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 10:15:02,192 (sync_database_script.py.124) INFO selected count=10870
+2018-01-25 10:15:12,930 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 10:45:01,499 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 10:45:01,913 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 10:45:12,565 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 11:15:02,171 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 11:15:02,516 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 11:15:13,541 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 11:45:02,115 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 11:45:02,447 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 11:45:13,069 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 12:15:01,687 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 12:15:02,041 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 12:15:13,068 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 12:45:01,629 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 12:45:02,069 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 12:45:13,392 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 13:15:02,025 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 13:15:02,753 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 13:15:13,560 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 13:42:17,579 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 13:42:17,939 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 13:42:30,141 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 16:47:48,246 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 16:47:48,591 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 16:47:48,854 (sync_database_script.py.170) INFO sync [error]
+2018-01-25 16:47:48,854 (sync_database_script.py.171) INFO (_mysql_exceptions.DataError) (1406, "Data too long for column 'name' at row 1") [SQL: u'INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: ('00559', '\xe5\xbe\xb7\xe6\xb3\xb0\xe6\x96\xb0\xe8\x83\xbd\xe6\xba\x90\xe9\x9b\x86\xe5\x9b\xa2', 'JY', Decimal('10463687800'), None, None, None, None, 'HKEX', 3, None, None, datetime.date(2018, 4, 3), datetime.date(2018, 3, 29), None, datetime.datetime(2018, 1, 25, 9, 40, 6), 'MAIN', Decimal('0.052'), 'DTXNYJT', datetime.datetime(2018, 1, 25, 16, 47, 48, 837202), 568373539370)] (Background on this error at: http://sqlalche.me/e/9h9h)
+2018-01-25 17:00:14,322 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:00:14,642 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 17:00:14,695 (sync_database_script.py.171) INFO sync [error]
+2018-01-25 17:00:14,695 (sync_database_script.py.172) INFO (_mysql_exceptions.DataError) (1406, "Data too long for column 'name' at row 1") [SQL: u'INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: ('00559', '\xe5\xbe\xb7\xe6\xb3\xb0\xe6\x96\xb0\xe8\x83\xbd\xe6\xba\x90\xe9\x9b\x86\xe5\x9b\xa2', 'JY', Decimal('10463687800'), None, None, None, None, 'HKEX', 3, None, None, datetime.date(2018, 4, 3), datetime.date(2018, 3, 29), None, datetime.datetime(2018, 1, 25, 9, 40, 6), 'MAIN', Decimal('0.052'), 'DTXNYJT', datetime.datetime(2018, 1, 25, 17, 0, 14, 685470), 568373539370)] (Background on this error at: http://sqlalche.me/e/9h9h)
+2018-01-25 17:03:47,989 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:03:48,393 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 17:05:15,809 (sync_database_script.py.167) INFO sync [ok]
+2018-01-25 17:15:15,939 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:15:16,273 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 17:16:52,186 (sync_database_script.py.167) INFO sync [ok]
+2018-01-25 17:31:38,154 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:31:38,492 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 17:33:12,983 (sync_database_script.py.167) INFO sync [ok]
+2018-01-25 17:39:32,105 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:39:32,428 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 17:39:45,667 (sync_database_script.py.167) INFO sync [ok]
+2018-01-25 17:44:16,284 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:44:16,650 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 17:45:43,910 (sync_database_script.py.167) INFO sync [ok]
+2018-01-25 17:48:32,166 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:48:32,259 (sync_database_script.py.124) INFO selected count=100
+2018-01-25 17:48:33,448 (sync_database_script.py.167) INFO sync [ok]
+2018-01-25 17:51:02,924 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:51:03,002 (sync_database_script.py.124) INFO selected count=5
+2018-01-25 17:51:03,039 (sync_database_script.py.168) INFO sync [ok]
+2018-01-25 17:52:01,001 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:52:01,072 (sync_database_script.py.124) INFO selected count=5
+2018-01-25 17:52:01,072 (log.py.109) INFO BEGIN (implicit)
+2018-01-25 17:52:01,072 (log.py.109) INFO DELETE FROM hk_shareipo
+2018-01-25 17:52:01,073 (log.py.109) INFO ()
+2018-01-25 17:52:01,079 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:01,079 (log.py.109) INFO ('00611', '\xe4\xb8\xad\xe5\x9b\xbd\xe6\xa0\xb8\xe8\x83\xbd\xe7\xa7\x91\xe6\x8a\x80', 'JY', Decimal('164136774'), None, None, None, None, 'HKEX', 3, None, None, datetime.date(2018, 2, 20), datetime.date(2018, 2, 15), None, datetime.datetime(2018, 1, 25, 15, 20, 7), 'MAIN', Decimal('1.36'), 'ZGHNKJ', datetime.datetime(2018, 1, 25, 17, 52, 1, 78369), 564841928595)
+2018-01-25 17:52:01,084 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:01,085 (log.py.109) INFO ('06828', '\xe5\x8c\x97\xe4\xba\xac\xe7\x87\x83\xe6\xb0\x94\xe8\x93\x9d\xe5\xa4\xa9', 'JY', Decimal('150000000'), None, None, None, None, 'HKEX', 3, None, None, None, None, None, datetime.datetime(2018, 1, 25, 15, 0, 10), 'MAIN', Decimal('0.57'), 'BJRQLT', datetime.datetime(2018, 1, 25, 17, 52, 1, 84811), 570187589009)
+2018-01-25 17:52:01,090 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:01,090 (log.py.109) INFO ('08136', '\xe8\x8b\xb1\xe9\xa9\xac\xe6\x96\xaf\xe9\x9b\x86\xe5\x9b\xa2', 'ZJ', Decimal('250000000'), Decimal('25000000'), Decimal('0.2'), Decimal('0.4'), Decimal('4040.48'), 'HKEX', 1, datetime.date(2018, 1, 11), datetime.date(2018, 1, 16), datetime.date(2018, 1, 25), datetime.date(2018, 1, 24), 10000, datetime.datetime(2018, 1, 25, 13, 2, 29, 830973), 'GEM', Decimal('0.25'), 'YMSJT', datetime.datetime(2018, 1, 25, 17, 52, 1, 90534), 568971782292)
+2018-01-25 17:52:01,096 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:01,096 (log.py.109) INFO ('00952', '\xe4\xb8\xad\xe5\x9b\xbd\xe6\xb3\x9b\xe6\xb5\xb7\xe9\x87\x91\xe8\x9e\x8d', 'JY', Decimal('16592131253'), None, None, None, None, 'HKEX', 3, None, None, datetime.date(2018, 4, 16), datetime.date(2018, 4, 13), None, datetime.datetime(2018, 1, 25, 12, 25, 5), 'MAIN', Decimal('1.1'), 'ZGFHJR', datetime.datetime(2018, 1, 25, 17, 52, 1, 96179), 567014848184)
+2018-01-25 17:52:01,102 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:01,102 (log.py.109) INFO ('01788', '\xe5\x9b\xbd\xe6\xb3\xb0\xe5\x90\x9b\xe5\xae\x89\xe5\x9b\xbd\xe9\x99\x85', 'JY', Decimal('700000000'), None, None, None, None, 'HKEX', 3, None, None, None, None, None, datetime.datetime(2018, 1, 25, 10, 20, 7), 'MAIN', Decimal('2.85'), 'GTJAGJ', datetime.datetime(2018, 1, 25, 17, 52, 1, 102020), 570190323490)
+2018-01-25 17:52:01,106 (log.py.109) INFO COMMIT
+2018-01-25 17:52:01,110 (sync_database_script.py.168) INFO sync [ok]
+2018-01-25 17:52:24,129 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:52:24,198 (sync_database_script.py.124) INFO selected count=5
+2018-01-25 17:52:24,198 (log.py.109) INFO BEGIN (implicit)
+2018-01-25 17:52:24,198 (log.py.109) INFO DELETE FROM hk_shareipo
+2018-01-25 17:52:24,198 (log.py.109) INFO ()
+2018-01-25 17:52:24,204 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:24,204 (log.py.109) INFO ('00611', '\xe4\xb8\xad\xe5\x9b\xbd\xe6\xa0\xb8\xe8\x83\xbd\xe7\xa7\x91\xe6\x8a\x80', 'JY', Decimal('164136774'), None, None, None, None, 'HKEX', 3, None, None, datetime.date(2018, 2, 20), datetime.date(2018, 2, 15), None, datetime.datetime(2018, 1, 25, 15, 20, 7), 'MAIN', Decimal('1.36'), 'ZGHNKJ', datetime.datetime(2018, 1, 25, 17, 52, 24, 204164), 564841928595)
+2018-01-25 17:52:24,210 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:24,210 (log.py.109) INFO ('06828', '\xe5\x8c\x97\xe4\xba\xac\xe7\x87\x83\xe6\xb0\x94\xe8\x93\x9d\xe5\xa4\xa9', 'JY', Decimal('150000000'), None, None, None, None, 'HKEX', 3, None, None, None, None, None, datetime.datetime(2018, 1, 25, 15, 0, 10), 'MAIN', Decimal('0.57'), 'BJRQLT', datetime.datetime(2018, 1, 25, 17, 52, 24, 210582), 570187589009)
+2018-01-25 17:52:24,217 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:24,218 (log.py.109) INFO ('08136', '\xe8\x8b\xb1\xe9\xa9\xac\xe6\x96\xaf\xe9\x9b\x86\xe5\x9b\xa2', 'ZJ', Decimal('250000000'), Decimal('25000000'), Decimal('0.2'), Decimal('0.4'), Decimal('4040.48'), 'HKEX', 1, datetime.date(2018, 1, 11), datetime.date(2018, 1, 16), datetime.date(2018, 1, 25), datetime.date(2018, 1, 24), 10000, datetime.datetime(2018, 1, 25, 13, 2, 29, 830973), 'GEM', Decimal('0.25'), 'YMSJT', datetime.datetime(2018, 1, 25, 17, 52, 24, 217851), 568971782292)
+2018-01-25 17:52:24,223 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:24,223 (log.py.109) INFO ('00952', '\xe4\xb8\xad\xe5\x9b\xbd\xe6\xb3\x9b\xe6\xb5\xb7\xe9\x87\x91\xe8\x9e\x8d', 'JY', Decimal('16592131253'), None, None, None, None, 'HKEX', 3, None, None, datetime.date(2018, 4, 16), datetime.date(2018, 4, 13), None, datetime.datetime(2018, 1, 25, 12, 25, 5), 'MAIN', Decimal('1.1'), 'ZGFHJR', datetime.datetime(2018, 1, 25, 17, 52, 24, 223620), 567014848184)
+2018-01-25 17:52:24,229 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:52:24,229 (log.py.109) INFO ('01788', '\xe5\x9b\xbd\xe6\xb3\xb0\xe5\x90\x9b\xe5\xae\x89\xe5\x9b\xbd\xe9\x99\x85', 'JY', Decimal('700000000'), None, None, None, None, 'HKEX', 3, None, None, None, None, None, datetime.datetime(2018, 1, 25, 10, 20, 7), 'MAIN', Decimal('2.85'), 'GTJAGJ', datetime.datetime(2018, 1, 25, 17, 52, 24, 229088), 570190323490)
+2018-01-25 17:52:24,233 (log.py.109) INFO COMMIT
+2018-01-25 17:52:24,237 (sync_database_script.py.168) INFO sync [ok]
+2018-01-25 17:59:21,375 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 17:59:21,451 (sync_database_script.py.124) INFO selected count=5
+2018-01-25 17:59:21,451 (log.py.109) INFO BEGIN (implicit)
+2018-01-25 17:59:21,452 (log.py.109) INFO DELETE FROM hk_shareipo
+2018-01-25 17:59:21,452 (log.py.109) INFO ()
+2018-01-25 17:59:21,516 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:59:21,516 (log.py.109) INFO ('00611', '\xe4\xb8\xad\xe5\x9b\xbd\xe6\xa0\xb8\xe8\x83\xbd\xe7\xa7\x91\xe6\x8a\x80', 'JY', Decimal('164136774'), None, None, None, None, 'HKEX', 3, None, None, datetime.date(2018, 2, 20), datetime.date(2018, 2, 15), None, datetime.datetime(2018, 1, 25, 15, 20, 7), 'MAIN', Decimal('1.36'), 'ZGHNKJ', datetime.datetime(2018, 1, 25, 17, 59, 21, 515610), 564841928595)
+2018-01-25 17:59:21,577 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:59:21,577 (log.py.109) INFO ('06828', '\xe5\x8c\x97\xe4\xba\xac\xe7\x87\x83\xe6\xb0\x94\xe8\x93\x9d\xe5\xa4\xa9', 'JY', Decimal('150000000'), None, None, None, None, 'HKEX', 3, None, None, None, None, None, datetime.datetime(2018, 1, 25, 15, 0, 10), 'MAIN', Decimal('0.57'), 'BJRQLT', datetime.datetime(2018, 1, 25, 17, 59, 21, 577672), 570187589009)
+2018-01-25 17:59:21,641 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:59:21,641 (log.py.109) INFO ('08136', '\xe8\x8b\xb1\xe9\xa9\xac\xe6\x96\xaf\xe9\x9b\x86\xe5\x9b\xa2', 'ZJ', Decimal('250000000'), Decimal('25000000'), Decimal('0.2'), Decimal('0.4'), Decimal('4040.48'), 'HKEX', 1, datetime.date(2018, 1, 11), datetime.date(2018, 1, 16), datetime.date(2018, 1, 25), datetime.date(2018, 1, 24), 10000, datetime.datetime(2018, 1, 25, 13, 2, 29, 830973), 'GEM', Decimal('0.25'), 'YMSJT', datetime.datetime(2018, 1, 25, 17, 59, 21, 641224), 568971782292)
+2018-01-25 17:59:21,712 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:59:21,712 (log.py.109) INFO ('00952', '\xe4\xb8\xad\xe5\x9b\xbd\xe6\xb3\x9b\xe6\xb5\xb7\xe9\x87\x91\xe8\x9e\x8d', 'JY', Decimal('16592131253'), None, None, None, None, 'HKEX', 3, None, None, datetime.date(2018, 4, 16), datetime.date(2018, 4, 13), None, datetime.datetime(2018, 1, 25, 12, 25, 5), 'MAIN', Decimal('1.1'), 'ZGFHJR', datetime.datetime(2018, 1, 25, 17, 59, 21, 712092), 567014848184)
+2018-01-25 17:59:21,776 (log.py.109) INFO INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2018-01-25 17:59:21,776 (log.py.109) INFO ('01788', '\xe5\x9b\xbd\xe6\xb3\xb0\xe5\x90\x9b\xe5\xae\x89\xe5\x9b\xbd\xe9\x99\x85', 'JY', Decimal('700000000'), None, None, None, None, 'HKEX', 3, None, None, None, None, None, datetime.datetime(2018, 1, 25, 10, 20, 7), 'MAIN', Decimal('2.85'), 'GTJAGJ', datetime.datetime(2018, 1, 25, 17, 59, 21, 776595), 570190323490)
+2018-01-25 17:59:21,838 (log.py.109) INFO COMMIT
+2018-01-25 17:59:21,894 (sync_database_script.py.168) INFO sync [ok]
+2018-01-25 18:04:35,512 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 18:04:35,851 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 18:12:13,592 (base.py.284) ERROR Internal Server Error: /sync/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/www/zunjiasite/stock_apply/views.py", line 381, in show_sync
+    mysql_jy_count = mysql_connect.execute(select([func.count('*')]).select_from(hk_shareipo).where(hk_shareipo.c.source == 'JY')).scalar()
+  File "/usr/lib/python2.7/site-packages/sqlalchemy/engine/result.py", line 1233, in scalar
+    row = self.first()
+  File "/usr/lib/python2.7/site-packages/sqlalchemy/engine/result.py", line 1207, in first
+    return self._non_result(None)
+  File "/usr/lib/python2.7/site-packages/sqlalchemy/engine/result.py", line 1089, in _non_result
+    "This result object does not return rows. "
+ResourceClosedError: This result object does not return rows. It has been closed automatically.
+2018-01-25 18:12:13,632 (sync_database_script.py.170) INFO sync [error]
+2018-01-25 18:12:13,633 (sync_database_script.py.171) INFO (_mysql_exceptions.OperationalError) (2013, 'Lost connection to MySQL server during query') [SQL: u'INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: ('02343', '\xe5\xa4\xaa\xe5\xb9\xb3\xe6\xb4\x8b\xe8\x88\xaa\xe8\xbf\x90', 'JY', Decimal('158598000'), None, None, None, None, 'HKEX', 3, None, None, None, None, None, datetime.datetime(2015, 6, 25, 14, 30, 30), 'MAIN', Decimal('13.52'), 'TPYHY', datetime.datetime(2018, 1, 25, 18, 12, 13, 520966), 263641161093)] (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-01-25 18:13:09,512 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 18:13:09,871 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 18:19:39,280 (base.py.284) ERROR Internal Server Error: /sync/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/www/zunjiasite/stock_apply/views.py", line 381, in show_sync
+    mysql_jy_count = mysql_connect.execute(select([func.count('*')]).select_from(hk_shareipo).where(hk_shareipo.c.source == 'JY')).scalar()
+  File "/usr/lib/python2.7/site-packages/sqlalchemy/engine/result.py", line 1233, in scalar
+    row = self.first()
+  File "/usr/lib/python2.7/site-packages/sqlalchemy/engine/result.py", line 1207, in first
+    return self._non_result(None)
+  File "/usr/lib/python2.7/site-packages/sqlalchemy/engine/result.py", line 1089, in _non_result
+    "This result object does not return rows. "
+ResourceClosedError: This result object does not return rows. It has been closed automatically.
+2018-01-25 18:19:39,291 (sync_database_script.py.170) INFO sync [error]
+2018-01-25 18:19:39,291 (sync_database_script.py.171) INFO (_mysql_exceptions.OperationalError) (2013, 'Lost connection to MySQL server during query') [SQL: u'INSERT INTO hk_shareipo (code, name, source, issuevolplanned, publicnewshareplanned, issuepriceceiling, issuepricefloor, tradeunitpriceatceiling, exchange, issuetype, applystartdate, issueenddate, proposedlistdate, datetoaccount, tradeunit, updatetime, marketcode, issueprice, pin_yin, createtime, jy_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: ('00896', '\xe5\x85\xb4\xe8\x83\x9c\xe5\x88\x9b\xe5\xbb\xba', 'JY', Decimal('338841025'), None, None, None, None, 'HKEX', 3, None, None, datetime.date(2016, 2, 24), datetime.date(2016, 2, 23), None, datetime.datetime(2016, 2, 23, 10, 20, 18), 'MAIN', Decimal('1'), 'XSCJ', datetime.datetime(2018, 1, 25, 18, 19, 39, 226966), 503586907790)] (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-01-25 18:20:09,753 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 18:20:10,116 (sync_database_script.py.124) INFO selected count=10872
+2018-01-25 18:31:16,383 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 18:31:16,685 (sync_database_script.py.124) INFO selected count=100
+2018-01-25 18:31:24,762 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 18:32:43,827 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 18:32:44,006 (sync_database_script.py.124) INFO selected count=2000
+2018-01-25 18:35:20,169 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 18:45:02,740 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 18:45:02,938 (sync_database_script.py.124) INFO selected count=2000
+2018-01-25 18:47:14,765 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 18:55:10,245 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 18:55:10,403 (sync_database_script.py.124) INFO selected count=2000
+2018-01-25 18:55:24,070 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 19:45:02,673 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 19:45:03,434 (sync_database_script.py.124) INFO selected count=2000
+2018-01-25 19:46:41,045 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 20:45:02,280 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 20:45:02,660 (sync_database_script.py.124) INFO selected count=2000
+2018-01-25 20:46:16,857 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 21:45:01,953 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 21:45:02,399 (sync_database_script.py.124) INFO selected count=2000
+2018-01-25 21:45:17,343 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 22:45:02,115 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 22:45:02,270 (sync_database_script.py.124) INFO selected count=2000
+2018-01-25 22:45:26,789 (sync_database_script.py.166) INFO sync [ok]
+2018-01-25 23:45:01,608 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-25 23:45:01,757 (sync_database_script.py.124) INFO selected count=2000
+2018-01-25 23:45:23,333 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 00:45:02,145 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 00:45:02,298 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 00:45:19,740 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 01:45:01,558 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 01:45:01,702 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 01:45:24,839 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 02:45:01,649 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 02:45:01,795 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 02:45:23,907 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 03:45:01,929 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 03:45:02,075 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 03:45:24,082 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 04:45:01,895 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 04:45:02,042 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 04:45:35,602 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 05:45:02,006 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 05:45:02,155 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 05:47:50,959 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 06:45:02,006 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 06:45:02,156 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 06:46:22,877 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 07:45:02,719 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 07:45:02,872 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 07:46:10,878 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 08:32:39,116 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 08:32:39,263 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 08:33:06,816 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 08:36:00,790 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 08:36:00,942 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 08:36:15,963 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 08:40:26,364 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 08:40:26,516 (sync_database_script.py.124) INFO selected count=2000
+2018-01-26 08:40:45,283 (sync_database_script.py.166) INFO sync [ok]
+2018-01-26 08:42:58,347 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 08:42:58,681 (sync_database_script.py.124) INFO selected count=10873
+2018-01-26 08:42:58,681 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 08:44:26,720 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 08:45:01,608 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 08:45:01,959 (sync_database_script.py.124) INFO selected count=10873
+2018-01-26 08:45:01,959 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 08:46:23,348 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 08:47:35,913 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 08:47:36,246 (sync_database_script.py.124) INFO selected count=10873
+2018-01-26 08:47:36,246 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 08:48:58,866 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 08:58:02,172 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 08:58:02,509 (sync_database_script.py.124) INFO selected count=10873
+2018-01-26 08:58:02,510 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 08:59:25,993 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 08:59:48,815 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 08:59:49,156 (sync_database_script.py.124) INFO selected count=10873
+2018-01-26 08:59:49,156 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 09:01:17,478 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 09:05:23,921 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 09:05:24,253 (sync_database_script.py.124) INFO selected count=10873
+2018-01-26 09:05:24,253 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 09:06:44,182 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 09:09:41,939 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 09:09:42,022 (sync_database_script.py.124) INFO selected count=200
+2018-01-26 09:09:42,022 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 09:09:44,199 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 09:12:01,885 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 09:12:01,964 (sync_database_script.py.124) INFO selected count=200
+2018-01-26 09:12:01,964 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 09:12:03,068 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 09:13:56,773 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 09:13:56,834 (sync_database_script.py.124) INFO selected count=200
+2018-01-26 09:13:56,834 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 09:13:58,616 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 09:14:38,509 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 09:14:38,580 (sync_database_script.py.124) INFO selected count=200
+2018-01-26 09:14:38,580 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 09:14:40,658 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 09:17:01,866 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 09:17:02,214 (sync_database_script.py.124) INFO selected count=10874
+2018-01-26 09:17:02,214 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 09:20:04,300 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 09:45:03,333 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 09:45:03,703 (sync_database_script.py.124) INFO selected count=10874
+2018-01-26 09:45:03,703 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 09:47:54,929 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 10:45:01,869 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 10:45:03,794 (sync_database_script.py.124) INFO selected count=10880
+2018-01-26 10:45:03,795 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 10:48:00,402 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 11:45:02,245 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 11:45:02,779 (sync_database_script.py.124) INFO selected count=10882
+2018-01-26 11:45:02,779 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 11:46:44,509 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 12:45:01,435 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 12:45:01,819 (sync_database_script.py.124) INFO selected count=10882
+2018-01-26 12:45:01,819 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 12:46:45,698 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 13:45:01,701 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 13:45:02,687 (sync_database_script.py.124) INFO selected count=10882
+2018-01-26 13:45:02,687 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 13:48:44,433 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 14:45:01,715 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 14:45:02,469 (sync_database_script.py.124) INFO selected count=10882
+2018-01-26 14:45:02,469 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 14:48:47,657 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 15:45:01,675 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 15:45:02,272 (sync_database_script.py.124) INFO selected count=10882
+2018-01-26 15:45:02,272 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 15:46:43,483 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 16:45:01,520 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 16:45:02,726 (sync_database_script.py.124) INFO selected count=10882
+2018-01-26 16:45:02,726 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 16:46:46,272 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 17:45:02,136 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 17:45:04,491 (sync_database_script.py.124) INFO selected count=10882
+2018-01-26 17:45:04,491 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 17:46:34,198 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 18:45:03,526 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 18:45:04,051 (sync_database_script.py.124) INFO selected count=10883
+2018-01-26 18:45:04,051 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 19:05:22,693 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 19:45:02,523 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 19:45:03,296 (sync_database_script.py.124) INFO selected count=10883
+2018-01-26 19:45:03,297 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 19:54:28,178 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 20:45:02,710 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 20:45:03,276 (sync_database_script.py.124) INFO selected count=10883
+2018-01-26 20:45:03,276 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 21:05:58,495 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 21:45:02,211 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 21:45:02,642 (sync_database_script.py.124) INFO selected count=10883
+2018-01-26 21:45:02,642 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 21:53:52,484 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 22:45:01,864 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 22:45:02,196 (sync_database_script.py.124) INFO selected count=10883
+2018-01-26 22:45:02,196 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 22:47:54,628 (sync_database_script.py.167) INFO sync [ok]
+2018-01-26 23:45:02,169 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-26 23:45:02,500 (sync_database_script.py.124) INFO selected count=10883
+2018-01-26 23:45:02,501 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-26 23:47:24,889 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 00:45:01,772 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 00:45:02,141 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 00:45:02,141 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 00:46:26,161 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 01:45:01,978 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 01:45:02,310 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 01:45:02,310 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 01:46:19,152 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 02:45:01,957 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 02:45:02,293 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 02:45:02,293 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 02:46:19,837 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 03:45:02,657 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 03:45:02,979 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 03:45:02,979 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 03:46:29,907 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 04:45:01,761 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 04:45:02,098 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 04:45:02,098 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 04:47:18,226 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 05:45:02,885 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 05:45:03,218 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 05:45:03,219 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 06:03:30,388 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 06:45:01,710 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 06:45:02,043 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 06:45:02,043 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 06:55:55,256 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 07:45:02,154 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 07:45:02,489 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 07:45:02,489 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 07:57:57,193 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 08:45:01,993 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 08:45:02,320 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 08:45:02,320 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 08:46:07,373 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 09:45:01,383 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 09:45:01,717 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 09:45:01,717 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 09:46:05,527 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 10:45:01,307 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 10:45:01,637 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 10:45:01,638 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 10:46:04,198 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 11:45:01,989 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 11:45:02,324 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 11:45:02,325 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 11:46:04,896 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 12:45:01,695 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 12:45:02,278 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 12:45:02,278 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 12:46:08,854 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 13:45:01,699 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 13:45:02,330 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 13:45:02,330 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 13:46:08,235 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 14:45:02,028 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 14:45:02,620 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 14:45:02,620 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 14:46:09,824 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 15:45:01,602 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 15:45:01,993 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 15:45:01,993 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 15:46:06,179 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 16:45:02,029 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 16:45:02,403 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 16:45:02,403 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 16:46:18,627 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 17:45:01,406 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 17:45:01,766 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 17:45:01,766 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 17:46:12,967 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 18:45:02,859 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 18:45:03,234 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 18:45:03,234 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 18:46:12,639 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 19:45:01,465 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 19:45:01,802 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 19:45:01,802 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 19:46:34,740 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 20:45:01,576 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 20:45:01,948 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 20:45:01,948 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 20:46:29,908 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 21:45:01,716 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 21:45:02,063 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 21:45:02,063 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 21:46:19,180 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 22:45:01,968 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 22:45:02,301 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 22:45:02,301 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 22:46:16,657 (sync_database_script.py.167) INFO sync [ok]
+2018-01-27 23:45:01,442 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-27 23:45:01,775 (sync_database_script.py.124) INFO selected count=10883
+2018-01-27 23:45:01,776 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-27 23:46:18,526 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 00:45:01,428 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 00:45:01,785 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 00:45:01,786 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 00:46:11,433 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 01:45:02,319 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 01:45:02,686 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 01:45:02,686 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 01:46:15,922 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 02:45:01,739 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 02:45:02,106 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 02:45:02,106 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 02:46:15,367 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 03:45:02,213 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 03:45:02,580 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 03:45:02,581 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 03:46:17,951 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 04:45:01,849 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 04:45:02,204 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 04:45:02,204 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 04:47:03,880 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 05:45:01,820 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 05:45:02,165 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 05:45:02,166 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 05:46:17,438 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 06:45:02,263 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 06:45:02,609 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 06:45:02,609 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 06:46:17,231 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 07:45:02,261 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 07:45:02,620 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 07:45:02,621 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 07:46:17,781 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 08:45:01,761 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 08:45:02,115 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 08:45:02,115 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 08:46:14,076 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 09:45:02,284 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 09:45:02,642 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 09:45:02,643 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 09:46:17,297 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 10:45:02,181 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 10:45:02,550 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 10:45:02,550 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 10:46:18,667 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 11:45:01,718 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 11:45:02,057 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 11:45:02,057 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 11:46:16,011 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 12:45:01,839 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 12:45:02,182 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 12:45:02,182 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 12:46:16,943 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 13:45:01,961 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 13:45:02,289 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 13:45:02,289 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 13:46:14,554 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 14:45:01,345 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 14:45:01,685 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 14:45:01,685 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 14:46:20,642 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 15:45:01,450 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 15:45:01,796 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 15:45:01,796 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 15:46:15,527 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 16:45:01,334 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 16:45:01,664 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 16:45:01,664 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 16:46:15,107 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 17:45:01,913 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 17:45:02,244 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 17:45:02,244 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 17:46:14,512 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 18:45:01,310 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 18:45:01,648 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 18:45:01,648 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 18:46:12,603 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 19:45:01,396 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 19:45:01,730 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 19:45:01,730 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 19:46:14,322 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 20:45:02,109 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 20:45:02,449 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 20:45:02,449 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 20:46:16,770 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 21:45:01,553 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 21:45:01,889 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 21:45:01,889 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 21:46:14,301 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 22:45:02,093 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 22:45:02,442 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 22:45:02,442 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 22:46:15,964 (sync_database_script.py.167) INFO sync [ok]
+2018-01-28 23:45:01,754 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-28 23:45:02,093 (sync_database_script.py.124) INFO selected count=10883
+2018-01-28 23:45:02,093 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-28 23:46:13,676 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 00:45:01,471 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 00:45:01,807 (sync_database_script.py.124) INFO selected count=10883
+2018-01-29 00:45:01,807 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 00:46:24,063 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 01:45:02,065 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 01:45:02,398 (sync_database_script.py.124) INFO selected count=10883
+2018-01-29 01:45:02,398 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 01:46:31,889 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 02:45:01,698 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 02:45:02,028 (sync_database_script.py.124) INFO selected count=10883
+2018-01-29 02:45:02,028 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 02:46:24,886 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 03:45:01,697 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 03:45:02,036 (sync_database_script.py.124) INFO selected count=10883
+2018-01-29 03:45:02,036 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 03:46:19,502 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 04:45:01,352 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 04:45:01,691 (sync_database_script.py.124) INFO selected count=10883
+2018-01-29 04:45:01,691 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 04:47:20,930 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 05:45:01,736 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 05:45:02,070 (sync_database_script.py.124) INFO selected count=10883
+2018-01-29 05:45:02,070 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 05:46:23,157 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 06:45:01,963 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 06:45:02,300 (sync_database_script.py.124) INFO selected count=10883
+2018-01-29 06:45:02,300 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 06:46:26,015 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 07:45:01,815 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 07:45:02,172 (sync_database_script.py.124) INFO selected count=10884
+2018-01-29 07:45:02,172 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 07:46:22,212 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 08:45:01,998 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 08:45:02,342 (sync_database_script.py.124) INFO selected count=10885
+2018-01-29 08:45:02,342 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 08:46:27,645 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 09:45:01,467 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 09:45:01,799 (sync_database_script.py.124) INFO selected count=10885
+2018-01-29 09:45:01,799 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 09:47:44,686 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 10:45:02,695 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 10:45:03,032 (sync_database_script.py.124) INFO selected count=10885
+2018-01-29 10:45:03,032 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 10:48:06,681 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 11:45:02,101 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 11:45:02,439 (sync_database_script.py.124) INFO selected count=10885
+2018-01-29 11:45:02,440 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 11:47:00,976 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 12:45:01,960 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 12:45:02,315 (sync_database_script.py.124) INFO selected count=10885
+2018-01-29 12:45:02,315 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 12:46:58,966 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 13:45:02,184 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 13:45:02,517 (sync_database_script.py.124) INFO selected count=10889
+2018-01-29 13:45:02,517 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 13:49:20,652 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 14:45:02,118 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 14:45:02,464 (sync_database_script.py.124) INFO selected count=10890
+2018-01-29 14:45:02,464 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 14:49:19,569 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 15:45:02,319 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 15:45:02,656 (sync_database_script.py.124) INFO selected count=10892
+2018-01-29 15:45:02,656 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 15:46:53,007 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 16:45:02,030 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 16:45:02,674 (sync_database_script.py.124) INFO selected count=10892
+2018-01-29 16:45:02,674 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 16:47:12,174 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 17:45:01,461 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 17:45:02,486 (sync_database_script.py.124) INFO selected count=10892
+2018-01-29 17:45:02,486 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 17:47:00,695 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 18:45:01,780 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 18:45:02,495 (sync_database_script.py.124) INFO selected count=10892
+2018-01-29 18:45:02,495 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 18:47:02,009 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 19:45:02,093 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 19:45:02,845 (sync_database_script.py.124) INFO selected count=10892
+2018-01-29 19:45:02,845 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 19:46:57,568 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 20:45:02,277 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 20:45:02,949 (sync_database_script.py.124) INFO selected count=10892
+2018-01-29 20:45:02,949 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 20:51:10,105 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 21:45:01,690 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 21:45:02,058 (sync_database_script.py.124) INFO selected count=10892
+2018-01-29 21:45:02,058 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 21:46:26,857 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 22:45:01,843 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 22:45:02,182 (sync_database_script.py.124) INFO selected count=10892
+2018-01-29 22:45:02,182 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 22:47:18,047 (sync_database_script.py.167) INFO sync [ok]
+2018-01-29 23:45:02,109 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-29 23:45:02,441 (sync_database_script.py.124) INFO selected count=10892
+2018-01-29 23:45:02,441 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-29 23:47:10,388 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 00:45:01,454 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 00:45:01,806 (sync_database_script.py.124) INFO selected count=10892
+2018-01-30 00:45:01,806 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 00:46:48,628 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 01:45:01,581 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 01:45:01,916 (sync_database_script.py.124) INFO selected count=10892
+2018-01-30 01:45:01,916 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 01:46:43,347 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 02:45:02,367 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 02:45:02,715 (sync_database_script.py.124) INFO selected count=10892
+2018-01-30 02:45:02,715 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 02:46:45,416 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 03:45:01,372 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 03:45:01,720 (sync_database_script.py.124) INFO selected count=10892
+2018-01-30 03:45:01,720 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 03:46:53,266 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 04:45:02,274 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 04:45:02,635 (sync_database_script.py.124) INFO selected count=10892
+2018-01-30 04:45:02,635 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 04:48:16,969 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 05:45:02,674 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 05:45:03,008 (sync_database_script.py.124) INFO selected count=10892
+2018-01-30 05:45:03,008 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 05:59:54,910 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 06:45:02,272 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 06:45:02,607 (sync_database_script.py.124) INFO selected count=10892
+2018-01-30 06:45:02,607 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 06:52:50,038 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 07:45:02,141 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 07:45:02,483 (sync_database_script.py.124) INFO selected count=10892
+2018-01-30 07:45:02,484 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 07:51:11,300 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 08:45:01,602 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 08:45:01,932 (sync_database_script.py.124) INFO selected count=10897
+2018-01-30 08:45:01,932 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 08:46:25,616 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 09:45:01,777 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 09:45:02,129 (sync_database_script.py.124) INFO selected count=10897
+2018-01-30 09:45:02,129 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 09:47:46,610 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 10:45:02,013 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 10:45:02,362 (sync_database_script.py.124) INFO selected count=10897
+2018-01-30 10:45:02,362 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 10:48:53,936 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 11:45:02,158 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 11:45:02,508 (sync_database_script.py.124) INFO selected count=10897
+2018-01-30 11:45:02,508 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 11:46:59,358 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 12:45:02,446 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 12:45:03,088 (sync_database_script.py.124) INFO selected count=10897
+2018-01-30 12:45:03,088 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 12:46:50,603 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 13:45:02,168 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 13:45:02,709 (sync_database_script.py.124) INFO selected count=10898
+2018-01-30 13:45:02,709 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 13:49:07,948 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 14:45:02,083 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 14:45:02,823 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 14:45:02,823 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 14:49:15,275 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 15:45:02,664 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 15:45:03,188 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 15:45:03,188 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 15:46:48,718 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 16:45:01,750 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 16:45:02,561 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 16:45:02,562 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 16:46:42,536 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 17:45:01,767 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 17:45:04,488 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 17:45:04,488 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 17:46:58,184 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 18:45:03,365 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 18:45:03,895 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 18:45:03,895 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 19:03:45,086 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 19:45:02,099 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 19:45:04,819 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 19:45:04,819 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 19:54:23,743 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 20:45:03,005 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 20:45:03,718 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 20:45:03,718 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 21:05:19,968 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 21:45:01,955 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 21:45:02,375 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 21:45:02,375 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 21:52:00,005 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 22:45:02,413 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 22:45:02,754 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 22:45:02,754 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 22:47:40,346 (sync_database_script.py.167) INFO sync [ok]
+2018-01-30 23:45:02,351 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-30 23:45:02,686 (sync_database_script.py.124) INFO selected count=10899
+2018-01-30 23:45:02,686 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-30 23:47:12,145 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 00:45:02,127 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 00:45:02,463 (sync_database_script.py.124) INFO selected count=10899
+2018-01-31 00:45:02,464 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 00:46:48,560 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 01:45:01,961 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 01:45:02,295 (sync_database_script.py.124) INFO selected count=10899
+2018-01-31 01:45:02,296 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 01:46:40,018 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 02:45:02,011 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 02:45:02,373 (sync_database_script.py.124) INFO selected count=10899
+2018-01-31 02:45:02,373 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 02:47:02,860 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 03:45:01,926 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 03:45:02,273 (sync_database_script.py.124) INFO selected count=10899
+2018-01-31 03:45:02,273 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 03:46:43,653 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 04:45:01,661 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 04:45:01,996 (sync_database_script.py.124) INFO selected count=10899
+2018-01-31 04:45:01,996 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 04:48:05,346 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 05:45:02,383 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 05:45:02,717 (sync_database_script.py.124) INFO selected count=10899
+2018-01-31 05:45:02,717 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 06:00:31,366 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 06:45:02,382 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 06:45:02,731 (sync_database_script.py.124) INFO selected count=10899
+2018-01-31 06:45:02,731 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 06:52:24,392 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 07:45:02,243 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 07:45:02,590 (sync_database_script.py.124) INFO selected count=10899
+2018-01-31 07:45:02,590 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 07:50:56,565 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 08:45:01,772 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 08:45:02,106 (sync_database_script.py.124) INFO selected count=10903
+2018-01-31 08:45:02,106 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 08:46:34,793 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 09:45:01,778 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 09:45:02,124 (sync_database_script.py.124) INFO selected count=10904
+2018-01-31 09:45:02,124 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 09:47:54,246 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 10:45:01,594 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 10:45:01,939 (sync_database_script.py.124) INFO selected count=10904
+2018-01-31 10:45:01,939 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 10:47:30,835 (sync_database_script.py.167) INFO sync [ok]
+2018-01-31 11:45:02,073 (sync_database_script.py.106) INFO begin sync ..... 
+2018-01-31 11:45:02,429 (sync_database_script.py.124) INFO selected count=10904
+2018-01-31 11:45:02,429 (sync_database_script.py.125) INFO mysql_connect_str=mysql://miningdata:stock99admin81@zunjiaappdb.com:3306/miningstock?charset=utf8
+2018-01-31 11:46:22,919 (sync_database_script.py.167) INFO sync [ok]

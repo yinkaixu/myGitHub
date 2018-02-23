@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新股申购信息</title>
+    <link rel="stylesheet" href="/static/content/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/content/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/content/site.css" />
+    
+    
+    <link rel="stylesheet" type="text/css" href="/static/admin/css/base.css" /> 
+    <link rel="stylesheet" type="text/css" href="/static/admin/css/changelists.css" />
+    
+    <script src="/static/scripts/modernizr-2.6.2.js"></script>
+    <script src="/static/scripts/jquery.min.js"></script>
+    <script src="/static/scripts/bootstrap.min.js"></script>
+    <script src="/static/scripts/pop_div.js"></script>
+    <script src="/static/laydate/laydate.js"></script>
+    <script src="/static/scripts/hint.js"></script>
+
+</head>
+
+<body >
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="javascritp:void()" class="navbar-brand">新股申购</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="{%url 'list'%}">股票列表</a></li>
+                    <li><a href="{%url 'input'%}">股票录入</a></li>
+                    <li><a href="{%url 'sync'%}">数据同步</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid body-content">
+        {% block content %}{% endblock %}
+        <hr />
+        <footer>
+            <p></p>
+        </footer>
+    </div>
+
+    <script src="/static/scripts/jquery-1.10.2.js"></script>
+    <script src="/static/scripts/bootstrap.js"></script>
+    <script src="/static/scripts/respond.js"></script>
+    {% block scripts %}{% endblock %}
+     <div id="inndiv"></div>
+</body>
+</html>

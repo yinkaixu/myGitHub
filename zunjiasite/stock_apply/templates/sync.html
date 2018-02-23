@@ -1,0 +1,109 @@
+﻿{% extends "layout.html" %}
+{% block content %}
+<div class="results" style="margin-top:50px;" >
+<table id="result_list" width="90%">
+<thead>
+<tr>
+<th scope="col"  class="column-__str__" width="30%">
+   
+   <div class="text" ><span>本地收录数</span></div>
+   <div class="clear"></div>
+</th>
+
+<th scope="col"  class="column-__str__" width="30%">
+   
+   <div class="text" ><span>目标数据库中数量</span></div>
+   <div class="clear"></div>
+</th>
+
+
+<th  scope="col"  class="column-__str__" >
+   
+  <div class="text"></div>
+   <div class="clear"></div>
+</th>
+
+
+
+
+</tr>
+</thead>
+<tbody>
+
+<tr class="row1">
+	<td class="field-__str__"  > 尊嘉：{{render_dic.oracle_zj_count}} </td>
+	<td class="field-__str__"  > 尊嘉：{{render_dic.mysql_zj_count}} </td>
+	<td class="field-__str__"></td>
+</tr>
+
+<tr class="row1">
+	<td class="field-__str__"  > 聚源：{{render_dic.oracle_jy_count}} </td>
+	<td class="field-__str__"  > 聚源：{{render_dic.mysql_jy_count}} </td>
+	<td class="field-__str__"></td>
+
+</tr>
+
+<tr class="row1">
+	<td class="field-__str__"  >  </td>
+	<td class="field-__str__"  > <input type="button" onclick="sync_d()" value="同步数据"> </td>
+	<td class="field-__str__"><label id="label_result" name="label_result" style="color:#dd8022"></td>
+</tr>
+
+
+
+</tbody>
+
+
+
+</table>
+
+<iframe name="infopost" id="infopost" style="display:none "></iframe>
+<form action="/info_submit/" method="post" name="formak" id="formak" target="infopost" >
+	{% csrf_token %}
+		<input type="hidden" id="act" name="act" value="sync_data" >
+</form>
+</div>
+<script>
+function sync_d()
+{
+	 if(confirm('确定要同步数据吗?'))
+ 	{
+ 		myform = document.getElementById('formak');
+ 		document.getElementById('label_result').innerHTML='同步中...';
+ 		myform.submit();
+ 		return true;
+ 	}
+ 	return false;
+}	
+
+function sync_result(ret,add_count)
+{
+	
+		if(ret=='1')
+		{
+			var myDate = new Date();
+			var mytime=myDate.toLocaleTimeString();
+			showstr='同步成功,'
+			/*
+			if(add_count=='0')
+				showstr += '没有需更新的数据';
+			else
+				showstr += '更新了'+add_count+'条数据';
+			*/	
+			showstr +='('+mytime+')';
+		    //alert(showstr)
+		    document.getElementById('label_result').innerHTML=showstr;
+		}
+		else
+		{
+			showstr='同步出错,';
+			showstr +=ret;
+			document.getElementById('label_result').innerHTML=showstr;
+		}
+		
+			
+}
+
+
+</script>
+{% endblock %}
